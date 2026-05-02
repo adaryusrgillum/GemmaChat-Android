@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="background">#FFF5F5F5</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="divider">#FFE0E0E0</color>
+    <color name="text_primary">#FF212121</color>
+    <color name="text_hint">#FF9E9E9E</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bubble_user">#FF6200EE</color>
+    <color name="bubble_assistant">#FFFFFFFF</color>
+    <color name="input_bg">#FFF0F0F0</color>
+</resources>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.socialauto.gemma.app-mergeDebugResources-3:/layout/activity_main.xml",
+        "source": "com.socialauto.gemma.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.socialauto.gemma.app-mergeDebugResources-3:/layout/item_message_assistant.xml",
+        "source": "com.socialauto.gemma.app-main-6:/layout/item_message_assistant.xml"
+    },
+    {
+        "merged": "com.socialauto.gemma.app-mergeDebugResources-3:/layout/item_message_user.xml",
+        "source": "com.socialauto.gemma.app-main-6:/layout/item_message_user.xml"
+    }
+]

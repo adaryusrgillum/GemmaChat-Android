@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.socialauto.gemma.app-merged_res-4:/layout_item_message_user.xml.flat",
+        "source": "com.socialauto.gemma.app-main-6:/layout/item_message_user.xml"
+    },
+    {
+        "merged": "com.socialauto.gemma.app-merged_res-4:/drawable_ic_launcher.xml.flat",
+        "source": "com.socialauto.gemma.app-main-6:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.socialauto.gemma.app-merged_res-4:/drawable_bg_bubble_assistant.xml.flat",
+        "source": "com.socialauto.gemma.app-main-6:/drawable/bg_bubble_assistant.xml"
+    },
+    {
+        "merged": "com.socialauto.gemma.app-merged_res-4:/drawable_ic_launcher_round.xml.flat",
+        "source": "com.socialauto.gemma.app-main-6:/drawable/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.socialauto.gemma.app-merged_res-4:/drawable_ic_send.xml.flat",
+        "source": "com.socialauto.gemma.app-main-6:/drawable/ic_send.xml"
+    },
+    {
+        "merged": "com.socialauto.gemma.app-merged_res-4:/xml_preferences.xml.flat",
+        "source": "com.socialauto.gemma.app-main-6:/xml/preferences.xml"
+    },
+    {
+        "merged": "com.socialauto.gemma.app-merged_res-4:/drawable_bg_bubble_user.xml.flat",
+        "source": "com.socialauto.gemma.app-main-6:/drawable/bg_bubble_user.xml"
+    },
+    {
+        "merged": "com.socialauto.gemma.app-merged_res-4:/drawable_bg_input.xml.flat",
+        "source": "com.socialauto.gemma.app-main-6:/drawable/bg_input.xml"
+    },
+    {
+        "merged": "com.socialauto.gemma.app-merged_res-4:/layout_item_message_assistant.xml.flat",
+        "source": "com.socialauto.gemma.app-main-6:/layout/item_message_assistant.xml"
+    },
+    {
+        "merged": "com.socialauto.gemma.app-merged_res-4:/menu_menu_main.xml.flat",
+        "source": "com.socialauto.gemma.app-main-6:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.socialauto.gemma.app-merged_res-4:/layout_activity_main.xml.flat",
+        "source": "com.socialauto.gemma.app-main-6:/layout/activity_main.xml"
+    }
+]
