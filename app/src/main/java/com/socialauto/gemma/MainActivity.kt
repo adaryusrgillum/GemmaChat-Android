@@ -79,7 +79,7 @@ class MainActivity : AppCompatActivity() {
         scrollToBottom()
 
         val prefs = PreferenceManager.getDefaultSharedPreferences(this)
-        val baseUrl = prefs.getString("ollama_url", "http://10.0.2.2:11434") ?: "http://10.0.2.2:11434"
+        val baseUrl = prefs.getString("ollama_url", "http://172.31.96.1:11434") ?: "http://172.31.96.1:11434"
         val model = prefs.getString("ollama_model", "gemma4") ?: "gemma4"
         val client = OllamaClient(baseUrl, model)
 
